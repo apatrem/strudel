@@ -1,0 +1,28 @@
+{"_base":"https://raw.githubusercontent.com/apatrem/strudel/main/rx7/rx7_selec",
+    "rx7_selec_bassdrums": [
+    "/rx7_selec_bassdrums/rx7_bd1.wav",
+    "/rx7_selec_bassdrums/rx7_bd2.wav",
+    "/rx7_selec_bassdrums/rx7_bd3.wav",
+    "/rx7_selec_bassdrums/rx7_f-bd1.wav",
+    "/rx7_selec_bassdrums/rx7_h-bd1.wav",
+    "/rx7_selec_bassdrums/rx7_h-bd2.wav",
+    "/rx7_selec_bassdrums/rx7_j-bd1.wav",
+    "/rx7_selec_bassdrums/rx7_p-bd1.wav",
+    "/rx7_selec_bassdrums/rx7_p-bd2.wav"
+  ],
+  "rx7_selec_snare": [
+    "/rx7_selec_snare/rx7_claps.wav",
+    "/rx7_selec_snare/rx7_h_sd1.wav",
+    "/rx7_selec_snare/rx7_h_sd2.wav",
+    "/rx7_selec_snare/rx7_h_sd3.wav",
+    "/rx7_selec_snare/rx7_picol_sd.wav",
+    "/rx7_selec_snare/rx7_p_sd1.wav",
+    "/rx7_selec_snare/rx7_p_sd2.wav",
+    "/rx7_selec_snare/rx7_p_sd3.wav",
+    "/rx7_selec_snare/rx7_rim1.wav",
+    "/rx7_selec_snare/rx7_rim2.wav",
+    "/rx7_selec_snare/rx7_sd1.wav",
+    "/rx7_selec_snare/rx7_sd2.wav",
+    "/rx7_selec_snare/rx7_sd3.wav"
+  ]
+}
