@@ -1,0 +1,46 @@
+{"_base":"https://raw.githubusercontent.com/apatrem/strudel/main/_synth",
+  "korg_triton": [
+    "/korg_triton/Korg-Triton-Acoustic-Bass-C2.wav",
+    "/korg_triton/Korg-Triton-Acoustic-Bass-C3.wav",
+    "/korg_triton/Korg-Triton-Acoustic-Bass-C4.wav",
+    "/korg_triton/Korg-Triton-Acoustic-Piano-C1.wav",
+    "/korg_triton/Korg-Triton-Acoustic-Piano-C3.wav",
+    "/korg_triton/Korg-Triton-Acoustic-Piano-C5.wav",
+    "/korg_triton/Korg-Triton-Harmonica-C5.wav",
+    "/korg_triton/Korg-Triton-Slow-Choir-ST-C4.wav",
+    "/korg_triton/Korg-Triton-Stein-Bass-C2.wav",
+    "/korg_triton/Korg-Triton-Stein-Bass-C3.wav"
+  ],
+  "roland_jv880": [
+    "/roland_jv880/Roland-JV-880-12-String-Guitar-C5.wav",
+    "/roland_jv880/Roland-JV-880-Pipe-Organ-C5.wav",
+    "/roland_jv880/Roland-JV-880-Strings-C3.wav",
+    "/roland_jv880/Roland-JV-880-Wide-Strings-C4.wav"
+  ],
+  "roland_jx03": [
+    "/roland_jx03/Roland-JX-03-Accordion-C4.wav",
+    "/roland_jx03/Roland-JX-03-Celesta-C5.wav",
+    "/roland_jx03/Roland-JX-03-Clav-C3.wav",
+    "/roland_jx03/Roland-JX-03-Dist-Guitar-C4.wav",
+    "/roland_jx03/Roland-JX-03-Harpsichord-C4.wav",
+    "/roland_jx03/Roland-JX-03-J-Funk-C2.wav",
+    "/roland_jx03/Roland-JX-03-Organ-1-C4.wav",
+    "/roland_jx03/Roland-JX-03-Strings-2-C4.wav",
+    "/roland_jx03/Roland-JX-03-Synth-Brass-1-C4.wav",
+    "/roland_jx03/Roland-JX-03-Vibe-C5.wav"
+  ],
+  "roland_jx8p": [
+    "/roland_jx8p/Roland-JX-8P-Bell-C5.wav",
+    "/roland_jx8p/Roland-JX-8P-Hi-Strings-C7.wav",
+    "/roland_jx8p/Roland-JX-8P-Lo-Strings-C4.wav",
+    "/roland_jx8p/Roland-JX-8P-Pipe-Organ-C4.wav",
+    "/roland_jx8p/Roland-JX-8P-Sync-Lead-C4.wav"
+  ],
+  "yamaha_an1x": [
+    "/yamaha_an1x/Yamaha-AN1x-Brass-C6.wav",
+    "/yamaha_an1x/Yamaha-AN1x-Filtered-Bass-C4.wav",
+    "/yamaha_an1x/Yamaha-AN1x-Resonant-Pad-C4.wav",
+    "/yamaha_an1x/Yamaha-AN1x-Resonant-Pad-C6.wav",
+    "/yamaha_an1x/Yamaha-AN1x-String-Pad-C5.wav"
+  ]
+}
